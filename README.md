@@ -1,6 +1,6 @@
-# Personal Portfolio (React)
+# aiportfolio1
 
-A modern, animated portfolio starter built with React + Vite.
+A modern, animated personal portfolio built with React + Vite.
 
 ## Run locally
 
@@ -15,10 +15,10 @@ npm run dev
 npm run build
 ```
 
-## Where to edit your personal details
+## Where to edit personal details
 
-Update this file:
+Update:
 
 - `src/content/portfolioData.js`
 
-The page reads everything (about, studies, projects, skills, socials, contact) from that single file.
+The page reads about, studies, projects, skills, socials, and contact details from this single file.
